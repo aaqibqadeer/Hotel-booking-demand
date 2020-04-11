@@ -7,7 +7,7 @@ All personally identifying information has been removed from the data.
 We will perform exploratory data analysis with python to get insight from the data.
 
 
-### We will try to answer the following Questions
+### We have tried to answer the following Questions
 1. How Many Booking Were Cancelled?
 2. What is the booking ratio between Resort Hotel and City Hotel?
 3. What is the percentage of booking for each year?
@@ -17,7 +17,7 @@ We will perform exploratory data analysis with python to get insight from the da
 7. Which was the most booked accommodation type (Single, Couple, Family)?
 
 
-### After that we will make predictive model to predict whether the booking will be cancelled or not
+### After that we made the predictive model to predict whether the booking will be cancelled or not
 
 **We will:**
 - Perform the Feature Engineering to make new featuers
@@ -61,6 +61,23 @@ Dataset contains following features:
 30. total_of_special_requests
 31. reservation_status
 32. reservation_status_date
+
+
+## Screenshots
+
+<p float="left" align="middle">  
+  <img src="https://user-images.githubusercontent.com/37020354/79042910-0c418780-7c15-11ea-8ddb-f17cf6b1fb2c.png" width="280" />
+  <img src="https://user-images.githubusercontent.com/37020354/79042912-0e0b4b00-7c15-11ea-956c-c4ffd1c8525f.png" width="280" />
+  <img src="https://user-images.githubusercontent.com/37020354/79042909-0b105a80-7c15-11ea-8d4b-317802f73077.png" width="280" />
+  <img src="https://user-images.githubusercontent.com/37020354/79042911-0cda1e00-7c15-11ea-98ea-dcc11e217f32.png" />
+</p>
+
+<!---
+-- ![4](https://user-images.githubusercontent.com/37020354/79042911-0cda1e00-7c15-11ea-98ea-dcc11e217f32.png)
+![1](https://user-images.githubusercontent.com/37020354/79042912-0e0b4b00-7c15-11ea-956c-c4ffd1c8525f.png)
+--->
+
+
 
 
 
