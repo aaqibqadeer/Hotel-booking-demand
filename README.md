@@ -28,7 +28,7 @@ We will perform exploratory data analysis with python to get insight from the da
 - And finally Evaluate our model
 
 
-It contains following features:
+Dataset contains following features:
 1. hotel
 2. is_canceled
 3. lead_time
