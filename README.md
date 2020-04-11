@@ -1,5 +1,33 @@
 # Hotel Booking Demand
-This dataset contains information of hotel booking.  
+This dataset contains information of hotel booking.
+
+This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
+All personally identifying information has been removed from the data.
+
+We will perform exploratory data analysis with python to get insight from the data.
+
+
+### We will try to answer the following Questions
+1. How Many Booking Were Cancelled?
+2. What is the booking ratio between Resort Hotel and City Hotel?
+3. What is the percentage of booking for each year?
+4. Which is the most busy month for hotel?
+5. From which country most guest come?
+6. How Long People Stay in the hotel?
+7. Which was the most booked accommodation type (Single, Couple, Family)?
+
+
+### After that we will make predictive model to predict whether the booking will be cancelled or not
+
+**We will:**
+- Perform the Feature Engineering to make new featuers
+- Perform the Data Selection to select only relevant features
+- Tranform the Data (Categorial to Numerical)
+- Split the data (Train Test Split)
+- Model the data (Fit the Data)
+- And finally Evaluate our model
+
+
 It contains following features:
 1. hotel
 2. is_canceled
@@ -35,42 +63,12 @@ It contains following features:
 32. reservation_status_date
 
 
-We will perform exploratory data analysis with python to get insight from the data.
 
-
-### We will try to answer the following Questions
-1. How Many Booking Were Cancelled?
-2. What is the booking ratio between Resort Hotel and City Hotel?
-3. What is the percentage of booking for each year?
-4. Which is the most busy month for hotel?
-5. From which country most guest come?
-6. How Long People Stay in the hotel?
-7. Which was the most booked accommodation type (Single, Couple, Family)?
-
-
-### After that we will make predictive model to predict whether the booking will be cancelled or not
-
-**We will:**
-- Perform the Feature Engineering to make new featuers
-- Perform the Data Selection to select only relevant features
-- Tranform the Data (Categorial to Numerical)
-- Split the data (Train Test Split)
-- Model the data (Fit the Data)
-- And finally Evaluate our model
-
-
-
-## Dataset
-
-#### Dataset Information:  
+## Dataset Information:  
 Data was posted on Kaggle by Jesse Mostipak.
 It is available to download Here:
 https://www.kaggle.com/jessemostipak/hotel-booking-demand
 
-
-#### Content
-This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
-All personally identifying information has been removed from the data.
 
 #### Acknowledgements
 The data is originally from the article Hotel Booking Demand Datasets, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
