@@ -40,7 +40,7 @@ This repository contains two files other than readme file
 **Hotel Booking.ipynb:** Jupyter Notebook file contains all the python code, documentation and visualization  
 **hotel_bookings.csv:** Our dataset file
 
-#### Dataset contains following features:
+**Dataset contains following features:**
 1. hotel
 2. is_canceled
 3. lead_time
@@ -75,7 +75,18 @@ This repository contains two files other than readme file
 32. reservation_status_date
 
 
-**Screenshots**
+## Result
+
+We learned that
+1. Almost 35% of bookings were canceled.
+2. More than 60% of the population booked the City hotel.
+3. More than double bookings were made in 2016, compared to the previous year. But the bookings decreased by almost 15% next year.
+4. Most bookings were made from July to August. And the least bookings were made at the start and end of the year.
+5. Portugal, the UK, and France, Spain and Germany are the top countries from most guests come, more than 80% come from these 5 countries.
+6. Most people stay for one, two, or three.
+-> For Resort hotel, the most popular stay duration is three, two, one, and four days respectively.
+-> For City hotel, most popular stay duration is one, two, seven(week), and three respectively
+7. Couple (or 2 adults) is the most popular accommodation type. So hotels can make arrangement plans accordingly
 
 <p float="left" align="middle">  
   <img src="https://user-images.githubusercontent.com/37020354/79042910-0c418780-7c15-11ea-8ddb-f17cf6b1fb2c.png" width="280" />
