@@ -37,7 +37,7 @@ We have used Python 3 to its following packages:
 ## Files
 This repository contains two files other than readme file
 
-**Hotel Booking.ipynb:** Jupyter Notebook file contains all the python code, documentation and visualization
+**Hotel Booking.ipynb:** Jupyter Notebook file contains all the python code, documentation and visualization  
 **hotel_bookings.csv:** Our dataset file
 
 #### Dataset contains following features:
@@ -75,7 +75,7 @@ This repository contains two files other than readme file
 32. reservation_status_date
 
 
-#### Screenshots
+**Screenshots**
 
 <p float="left" align="middle">  
   <img src="https://user-images.githubusercontent.com/37020354/79042910-0c418780-7c15-11ea-8ddb-f17cf6b1fb2c.png" width="280" />
@@ -99,7 +99,7 @@ It is available to download Here:
 https://www.kaggle.com/jessemostipak/hotel-booking-demand
 
 
-#### Acknowledgements
+**Acknowledgements**
 The data is originally from the article Hotel Booking Demand Datasets, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
 
 The data was downloaded and cleaned by Thomas Mock and Antoine Bichat for #TidyTuesday during the week of February 11th, 2020.
