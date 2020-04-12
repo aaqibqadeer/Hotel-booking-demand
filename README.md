@@ -1,11 +1,11 @@
 # Hotel Booking Demand
-This dataset contains information of hotel booking.
 
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 All personally identifying information has been removed from the data.
 
 We will perform exploratory data analysis with python to get insight from the data.
 
+## Motivation
 
 ### We have tried to answer the following Questions
 1. How Many Booking Were Cancelled?
@@ -15,7 +15,6 @@ We will perform exploratory data analysis with python to get insight from the da
 5. From which country most guest come?
 6. How Long People Stay in the hotel?
 7. Which was the most booked accommodation type (Single, Couple, Family)?
-
 
 ### After that we made the predictive model to predict whether the booking will be cancelled or not
 
@@ -27,8 +26,21 @@ We will perform exploratory data analysis with python to get insight from the da
 - Model the data (Fit the Data)
 - And finally Evaluate our model
 
+## Tools and Libraries Used
+We have used Python 3 to its following packages:
+- Pandas
+- Matplotlib
+- Seaborn
+- Sklearn
+- pycountry
 
-Dataset contains following features:
+## Files
+This repository contains two files other than readme file
+
+**Hotel Booking.ipynb:** Jupyter Notebook file contains all the python code, documentation and visualization
+**hotel_bookings.csv:** Our dataset file
+
+#### Dataset contains following features:
 1. hotel
 2. is_canceled
 3. lead_time
@@ -63,7 +75,7 @@ Dataset contains following features:
 32. reservation_status_date
 
 
-## Screenshots
+#### Screenshots
 
 <p float="left" align="middle">  
   <img src="https://user-images.githubusercontent.com/37020354/79042910-0c418780-7c15-11ea-8ddb-f17cf6b1fb2c.png" width="280" />
